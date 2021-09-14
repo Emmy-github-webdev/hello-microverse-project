@@ -1,4 +1,4 @@
-#Hello Microverse
+**Hello Microverse**
 
 Hello Microverse is a project to demonstrate the understanding of Github, branches, and linter 
 
