@@ -1,48 +1,48 @@
-**Hello Microverse**
+# Hello Microverse
 
 Hello Microverse is a project to demonstrate the understanding of Github, branches, and linter 
 
 
-#Built With
+## Built With
 
 * HTML
 
-#Live Demo
+## Live Demo
 
-#Getting Started
+## Getting Started
 
 To get a local copy and running follow these simple steps
 
-#Prerequisites
+## Prerequisites
   1.a working computer(Desktop or Laptop)
-#Install
+## Install
    1.text editor
    2.git
-#Setup
+## Setup
     1.create a local folder on your computer
     2. clone the 'Hello Microverse' project to the local repo
-#Usage
+## Usage
     1.open the project with a text editor
 
-#Run Tests
+## Run Tests
  1.click Go Live to run the project
 
- #Depoyment
+ ## Depoyment
    Push the project to remote repository and publish it from the page settings
 
-#Author
+## Author
 
   GitHub:@Emmy-github-webdev
   Twitter:@ogaemmanueloga
   LinkedIn:@emmanuel-oga-16171584
 
-#Contributing
+## Contributing
 
 Contributions, issues and feature requests are welcome!
 
 Feel free to check the issues page
 
-#Show your support
+**Show your support**
 
 Give a star if you like this project
 
