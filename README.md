@@ -34,7 +34,6 @@ To get a local copy and running follow these simple steps
 
 GitHub:@Emmy-github-webdev
 Twitter:@ogaemmanueloga
-LinkedIn:@emmanuel-oga-16171584
 
 Contributing
 
