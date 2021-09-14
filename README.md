@@ -40,7 +40,7 @@ Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the issues page
+Feel free to check the issues page https://github.com/Emmy-github-webdev/hello-microverse-project/issues
 
 Show your support
 
